@@ -1,6 +1,6 @@
 Hi, I'm Thuy 👋
 
-🎓 Data Visualization, Minor in Informatics, graduate from the University of Washington
+🎓 I major in Data Visualization, Minor in Informatics, from the University of Washington
 
 I'm interested in:
 - Data Analytics
