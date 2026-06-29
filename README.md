@@ -1,13 +1,7 @@
 Hi, I'm Thuy 👋
 
-🎓 I major in Data Visualization, Minor in Informatics, from the University of Washington
+🎓 B.S. Data Visualization + Informatics Minor, University of Washington Bothell ('25)
 
-I'm interested in:
-- Data Analytics
-- Business Intelligence
-- SQL
-- Business Analyst
-- Data Visualization
+I'm passionate about turning messy data into clear decisions. I'm currently seeking entry-level roles in data analytics and business intelligence.
 
-Skills:
-SQL • Python • R • Excel • Tableau • Power BI
+Skills: SQL · Python · R · Tableau · Power BI · ArcGIS · JavaScript · Figma
